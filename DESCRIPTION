@@ -1,11 +1,13 @@
 Package: FinalProject
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Torque Calculator
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Author: Jacob Jewell
+Maintainer: Jacob Jewell <jacobjewell@mail.usf.edu>
+Description: Functions for calculation of engine torque,
+    output torque, output speed, and final drive of an 
+    engine, based off known horsepower or kilowatts, rpm,
+    and gear ratios.
+License: CCO
 Encoding: UTF-8
 LazyData: true
