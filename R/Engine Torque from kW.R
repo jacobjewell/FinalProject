@@ -6,7 +6,7 @@
 # @return torque in N.m, a numeric vector, the resulting torque of the equation
 
 
-enginetq.hp <- function(kW, rpm) {
+enginetq.kW <- function(kW, rpm) {
 
   torque  <- (kW * 9.5488) / rpm
   return(torque)
