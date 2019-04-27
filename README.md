@@ -12,5 +12,4 @@ Functions include:
   Output torque of engine
   
 This package was developed as a project for class and will likely not be updated frequently. 
-Any questions, comments, or concerns, please email me
-Jacob Jewell <jacobjewell@mail.usf.edu>
+Any questions, comments, or concerns, please email me at <jacobjewell@mail.usf.edu>
