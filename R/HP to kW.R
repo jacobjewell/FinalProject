@@ -2,7 +2,7 @@
 #
 # @Description function allows users to calculate kilowatts from horsepower
 # @param HP US standard horsepower, a numeric number or vector
-# @return a numeric vector, the resulting kW of the equation
+# @return kilowatts, a numeric vector, the resulting kW of the equation
 
 HPtokW <- function(HP) {
 
