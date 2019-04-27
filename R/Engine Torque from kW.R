@@ -12,4 +12,3 @@ enginetq.kW <- function(kW, rpm) {
   return(torque)
 
 }
-
